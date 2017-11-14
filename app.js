@@ -1,3 +1,4 @@
+'use strict';
 let express = require('express');
 let expsHandlebars = require('express-handlebars');
 let path = require('path');
