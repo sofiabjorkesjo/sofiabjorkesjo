@@ -4,16 +4,16 @@
 
 let img = document.createElement('img');
 img.setAttribute('class', 'imgSlide');
-img.setAttribute('src', '/bilder/13.jpg');
+img.setAttribute('src', '/images/13.jpg');
 let img2 = document.createElement('img');
 img2.setAttribute('class', 'imgSlide');
-img2.setAttribute('src', '/bilder/17.jpg');
+img2.setAttribute('src', '/images/17.jpg');
 let img3 = document.createElement('img');
 img3.setAttribute('class', 'imgSlide');
-img3.setAttribute('src', '/bilder/41.jpg');
+img3.setAttribute('src', '/images/41.jpg');
 let img4 = document.createElement('img');
 img3.setAttribute('class', 'imgSlide');
-img3.setAttribute('src', '/bilder/31.jpg');
+img3.setAttribute('src', '/images/31.jpg');
 
 let imgDiv = document.createElement('div');
 imgDiv.setAttribute('id', 'imgDiv');
