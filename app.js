@@ -6,7 +6,7 @@ let path = require('path');
 
 let app = express();
 
-let port = process.env.PORT || 3000;
+let port = process.env.PORT || 4000;
 
 
 app.engine('.hbs', expsHandlebars({

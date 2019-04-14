@@ -18,6 +18,11 @@ router.route('/fotografier')
         res.render('layout/fotografier');
     });
 
+    router.route('/brollop')
+    .get(function (req, res) {
+        res.render('layout/brollop');
+    });
+
 router.route('/programmering')
     .get(function (req, res) {
         res.render('layout/programmering');
